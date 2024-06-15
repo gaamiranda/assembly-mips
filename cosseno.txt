@@ -1,0 +1,2 @@
+A função cosseno lê um ângulo em graus do user e converte-o para radianos. Utiliza a série de Taylor para calcular o cosseno, somando e subtraindo os termos da série: 1, -x^2 / 2!, x^4 / 4!, -x^6 / 6!. Os termos são calculados multiplicando e dividindo os valores intermediários. Após calcular a soma da série, o resultado (cosseno do ângulo) é impresso.
+2

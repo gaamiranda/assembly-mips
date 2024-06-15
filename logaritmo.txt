@@ -1,0 +1,3 @@
+Ambos os logaritmos de base 2 e base 10 são calculados usando a função de logaritmo natural(ln). Primeiro, lê um número flutuante e armazena-o. A função log2 é chamada, que calcula ln(x) e ln(2), dividindo os resultados para obter log2(x). De seguida, o resultado é impresso. Depois, a função log10 é chamada, que calcula ln(x) e ln(10), dividindo os resultados para obter log10(x), e o resultado também é impresso.
+
+A função lnx usa uma série infinita de Taylor para calcular ln(x), inicializando-se com (x-1)/(x+1) e iterando para somar todos os termos.

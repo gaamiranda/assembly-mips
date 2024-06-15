@@ -1,0 +1,1 @@
+A potência é calculada fazendo um loop, este loop o que faz é pegar no valor que o user introduziu e multiplicar este valor a quantidade de vezes que a potência existir, potência esta que também é introduzida pelo user.
